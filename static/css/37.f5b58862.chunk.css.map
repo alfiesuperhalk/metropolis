@@ -1,0 +1,1 @@
+{"version":3,"sources":["Todo.scss"],"names":[],"mappings":"AAAA,+BACI,QAAW,CACX,cAAe,CAClB,4BAEG,cAAe","file":"37.f5b58862.chunk.css","sourcesContent":[".todo-filters .list-group-item{\r\n    border: 0px;\r\n    cursor: pointer;\r\n}\r\n.todo-list .list-group-item{\r\n    cursor: pointer;\r\n}"]}
