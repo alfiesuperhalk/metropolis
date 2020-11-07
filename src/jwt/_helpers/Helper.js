@@ -1,0 +1,1 @@
+export const History = createBrowserHistory({basename: 'https://alfiesuperhalk.github.io/metropolis'});
